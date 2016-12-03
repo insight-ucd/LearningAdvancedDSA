@@ -17,6 +17,13 @@ list of problems:
 
 list of problems:
 
+DP: 
+
+1. [Drink Responsibly](https://open.kattis.com/problems/drinkresponsibly)
+2. [Jupiter](https://open.kattis.com/problems/jupiter)
+3. [FreeWeights](https://open.kattis.com/problems/freeweights)
+4. [BritishMenu](https://open.kattis.com/problems/britishmenu)
+
 ## Graphs
 
 1. Traversal, depth-first search, breadth-first search, connected components, fill, topological sort, articulation points, bridges, strongly connected components
@@ -27,6 +34,11 @@ list of problems:
 6. special graphs (directed acyclic, bipartite, eulerian, etc)
 
 list of problems:
+
+1. [IronCoal](https://open.kattis.com/problems/ironcoal)
+2. [Hypercube](https://open.kattis.com/problems/hypercube)
+3. [Optimistan](https://open.kattis.com/problems/optimistan)
+
 
 ## String Processing
 
@@ -46,6 +58,9 @@ list of problems:
 
 list of problems:
 
+1. [Kiwi Trees](https://open.kattis.com/problems/kiwitrees)
+
+
 ## Mathematics
 
 1. arbitrary precision (BigInteger, BigDecimal)
@@ -57,3 +72,5 @@ list of problems:
 
 list of problems:
 
+1. [CarefulAscent](https://open.kattis.com/problems/carefulascent)
+2. [ArrangingHat](https://open.kattis.com/problems/arranginghat)
